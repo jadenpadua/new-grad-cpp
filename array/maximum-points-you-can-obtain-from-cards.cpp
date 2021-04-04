@@ -1,3 +1,4 @@
+// LC Sessions 4/4/21, use [5,3,4,8,1] with k = 3, left sum should be [0,5,8,12] [0,1,9,13] 
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
